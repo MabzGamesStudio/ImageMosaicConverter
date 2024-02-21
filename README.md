@@ -11,6 +11,7 @@ Converts an image to a mosaic style art image.
 2. In the main.py file set the image_path variable to the name of your image. Ex: 'Meme.jpg'
 3. Set the save_name variable to the name of your image after converting to a mosaic. Ex: 'MemeMosaic.jpg'
 4. Set the mosaic_nodes variable to the number of nodes in the mosaic. Ex: 5000
+5. Run python main.py in the same directory in the terminal
 
 <div>
   <img src="Meme.jpg" alt="Meme" width="400"/>
